@@ -11,4 +11,4 @@ been created : Home, About us, and Login Page, with responsive website and not f
 interactive in Figma.
 
 Role : 
-UI/UX Designer, Web Developer.
+UI/UX Designer, Frontend Developer.
