@@ -1,14 +1,14 @@
 # Furnid
 
 
-#Description: 
+Description: 
 Is a website that help customer to find the best furniture by displaying a
-unique yet aesthetic furniture that customer must have.
+unique yet aesthetic furniture that customer must have. My first project to get knowing html and css
 
-#Detail Information:
+Detail Information:
 This website is developed using HTML,CSS, Figma with 3 page that had
 been created : Home, About us, and Login Page, with responsive website and not fully
 interactive in Figma.
 
-#Role : 
+Role : 
 UI/UX Designer, Web Developer.
